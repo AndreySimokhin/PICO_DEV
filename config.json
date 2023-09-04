@@ -1,0 +1,20 @@
+{
+    "1": {
+        "entry_id": "1",
+        "title": "Title1",
+        "data": {
+            "start": true,
+            "dev_mode": false
+        },
+        "options": []
+    },
+    "2": {
+        "entry_id": "2",
+        "title": "Title2",
+        "data": {
+            "start": false,
+            "dev_mode": false
+        },
+        "options": []
+    }
+}
